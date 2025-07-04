@@ -1,0 +1,308 @@
+[
+  {
+    "name": "31SaaS",
+    "description": "Introducing the NextJs boilerplate: a comprehensive solution for swiftly building SaaS products. Featuring a React framework, customizable UI, robust authentication, secure backend, Stripe integration, and a powerful CMS, it maximizes productivity and innovation in just 10 minutes.",
+    "price": "$129",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/31saas-website.png"
+  },
+  {
+    "name": "Achromatic",
+    "description": "Achromatic is a robust starter kit that simplifies development with features like authentication and billing. Utilizing Next.js, React, and Prisma, it saves developers time and supports unlimited projects, offering flexibility and a mobile-friendly demo.",
+    "price": "$180",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/achromatic-website.png"
+  },
+  {
+    "name": "Bedrock",
+    "description": "Bedrock is a comprehensive Next.js and GraphQL boilerplate for SaaS development. It includes user authentication, subscription payments, and team management, offering a flexible, modular framework that saves setup time and allows developers to focus on unique features.",
+    "price": "$396",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/bedrock-website.png"
+  },
+  {
+    "name": "BoilerPro",
+    "description": "This boilerplate is a foundational template that streamlines development, offering pre-defined components and configurations. It enhances efficiency, consistency, and scalability, enabling developers to focus on unique aspects and reducing repetitive tasks for high-quality projects.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/boilerpro-website.png"
+  },
+  {
+    "name": "Build MVP",
+    "description": "Unlock your SaaS product's potential with our Next.js 14 boilerplate, featuring Prisma, Auth.js, Shadcn/UI, and Stripe. Enjoy rapid development, seamless scalability, enhanced SEO, customizable UI, secure authentication, and efficient subscription management from day one.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/build-mvp-website.png"
+  },
+  {
+    "name": "BuilderKit",
+    "description": "BuilderKit is a comprehensive toolkit for AI-powered SaaS app development, featuring NextJS, Supabase, and Tailwind CSS. It offers pre-built apps, modules, and integrations, supporting AI models for text, image, and speech processing, optimized for rapid deployment.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/builderkit-website.png"
+  },
+  {
+    "name": "Cascade",
+    "description": "Cascade is a free, open-source SaaS boilerplate for rapid development and scalability. Built on the T3 Stack, it features Next.js, tRPC, and includes authentication, payment, and CI/CD integrations, plus business tools like a blog, SEO, and analytics.",
+    "price": "Free",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/cascade-website.png"
+  },
+  {
+    "name": "Cntxtkit",
+    "description": "Introducing the NextJS & AI Wrapper Boilerplate, a powerful tool that simplifies development, enabling you to focus on innovation. Ideal for all developers, it streamlines complex tasks, providing a solid foundation to efficiently build and launch applications.",
+    "price": "$30",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/cntxtkit-website.png"
+  },
+  {
+    "name": "Codepilot",
+    "description": "Codepilot is a NextJS-based boilerplate that streamlines development by automating routine tasks. With React components, Tailwind CSS, and integration with third-party tools, it supports technologies like Prisma and Stripe for efficient SaaS application creation and rapid product launches.",
+    "price": "$139",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/codepilot-website.png"
+  },
+  {
+    "name": "DaaSBoilerplate",
+    "description": "DaaSBoilerplate is a production-ready solution for launching DaaS products with features like authentication, admin panel, and multi-tenancy. Built with NextJS and TypeScript, it supports one-click Docker deployment, SEO-friendly blogging, and offers lifetime updates and community support.",
+    "price": "$197",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/daasboilerplate-website.png"
+  },
+  {
+    "name": "Divjoy",
+    "description": "Divjoy is a powerful tool for React developers, providing a comprehensive boilerplate to accelerate development. It offers customization, extensive resources, and active social channels, simplifying React development for both beginners and seasoned developers. Explore Divjoy to enhance your workflow.",
+    "price": "$299",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/divjoy-website.png"
+  },
+  {
+    "name": "Dome",
+    "description": "The Dome SaaS Validation Template, built with Next.js and Tailwind, is perfect for launching your SaaS MVP. It includes customizable components, social login, email integration, and feedback tools, enabling you to focus on strategy and revenue, not development.",
+    "price": "$119",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/dome-website.png"
+  },
+  {
+    "name": "Enterprise SaaS Starter Kit",
+    "description": "The Enterprise SaaS Starter Kit is an open-source Next.js boilerplate for rapid enterprise app development. It features a docker-compose setup with Postgres, Prisma Studio, and Playwright for E2E testing. Contributions are welcome. Apache 2.0 licensed.",
+    "price": "Free",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/enterprise-saas-starter-kit-website.png"
+  },
+  {
+    "name": "FastPocket",
+    "description": "FastPocket enhances app development by providing essential tools and templates, allowing developers to focus on unique features. It's ideal for indie hackers using React and Next.js, offering a comprehensive codebase, free hosting templates, and styling with TailwindCSS and DaisyUI.",
+    "price": "$75",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/fastpocket-website.png"
+  },
+  {
+    "name": "Full Stack Kit",
+    "description": "Full-Stack-Kit is a versatile suite offering prebuilt Next.js features to speed up web development. It includes authentication, role-based access, Stripe integration, and multilingual support, all with clean, extendable code and a strong community backing.",
+    "price": "$59",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/full-stack-kit-website.png"
+  },
+  {
+    "name": "Gravity",
+    "description": "Gravity is a robust SaaS boilerplate streamlining development with over 25 UI views and full back-end functionality. It handles complex tasks like payments and authentication, saving developers over 400 hours and enhancing focus on feature creation.",
+    "price": "$696",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/gravity-website.png"
+  },
+  {
+    "name": "Horizon Boilerplate",
+    "description": "The Horizon UI Boilerplate enhances web app development with NextJS. It features fully coded pages, AI integration, and over 100 customizable components. Utilizing Stripe, Supabase, and Tailwind CSS, it offers a 10X faster workflow and seamless user experience.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/horizon-boilerplate-website.png"
+  },
+  {
+    "name": "Hyper SaaS",
+    "description": "HyperSaas is a powerful boilerplate for rapid SaaS development, utilizing React 18, Next.js 14, and Django. It ensures type safety with TypeScript and Zod, offers Stripe integration, and enhances SEO with server-side rendering, focusing on innovation over technicalities.",
+    "price": "$129",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/hyper-saas-website.png"
+  },
+  {
+    "name": "Indie Starter",
+    "description": "Indie Starter is a versatile boilerplate for rapid SaaS development, featuring pre-built UI components, authentication, and SEO optimization. It leverages Supabase and Tailwind CSS, offering magic links, social logins, and Stripe integration for swift project launches.",
+    "price": "$69",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/indie-starter-website.png"
+  },
+  {
+    "name": "Kickstart",
+    "description": "Kickstart is a comprehensive boilerplate for app development, offering features like authentication and payment integration. Utilizing React, NextJS, and more, it simplifies complexities, enabling you to focus on your vision with tools like Chakra UI and Firebase Auth.",
+    "price": "$24",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/kickstart-website.png"
+  },
+  {
+    "name": "LaunchFast",
+    "description": "Discover LaunchFast's full-stack starter kits for Astro, Next.js, and SvelteKit. Enjoy seamless integrations, global payments, secure authentication, and analytics. Customize with your database choice and deploy on various platforms for an accelerated project launch.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/launchfast-website.png"
+  },
+  {
+    "name": "Loopple",
+    "description": "Accelerate your project with Loopple Boilerplate, trusted by over 13,000 users. It offers authentication, database integration, and a drag-and-drop builder. Enjoy 100+ Tailwind CSS components and demo pages. Enhance development speed and unleash creativity effortlessly.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/loopple-website.png"
+  },
+  {
+    "name": "Makerkit",
+    "description": "Makerkit is a flexible SaaS Boilerplate utilizing Next.js and Supabase, featuring React v19, Typescript, and Tailwind CSS. It offers social sign-in, multi-factor authentication, and secure payments, supporting mobile-first design and SEO optimization for rapid SaaS deployment.",
+    "price": "$349",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/makerkit-website.png"
+  },
+  {
+    "name": "Modern Mern",
+    "description": "Modern MERN is a Node.js boilerplate that accelerates SaaS development with customizable React components. Built on best practices, it offers a scalable codebase and seamless serverless deployment, enhancing productivity and reducing development time significantly.",
+    "price": "$699",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/modern-mern-website.png"
+  },
+  {
+    "name": "Neorepo",
+    "description": "A boilerplate is a standardized text offering essential company or product information, including history, core values, mission, and achievements. It establishes brand identity and communicates its purpose to the audience effectively.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/neorepo-website.png"
+  },
+  {
+    "name": "Next SaaS",
+    "description": "The NextSaaS boilerplate, built on Next.js, provides SaaS founders with a streamlined development platform. It features a CMS, documentation, newsletter tools, and seamless integrations, enabling quick monetization, customization, and scalability with modern deployment and AI-ready architecture.",
+    "price": "$89",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/next-saas-website.png"
+  },
+  {
+    "name": "Next Starter AI",
+    "description": "Accelerate your startup launch with the NextJS template, perfect for building SaaS, AI tools, or web apps. It simplifies API setup, authentication, and payments, allowing you to focus on your core product while managing user and email integrations effortlessly.",
+    "price": "$169",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/next-starter-ai-website.png"
+  },
+  {
+    "name": "Nextacular",
+    "description": "Nextacular is an open-source starter kit for modern full-stack SaaS development, supporting multi-tenant applications, customizable logins, and integration with databases and Stripe. It features Tailwind CSS, SEO support, and extensive documentation under the MIT license.",
+    "price": "Free",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/nextacular-website.png"
+  },
+  {
+    "name": "Nextbase",
+    "description": "Nextbase is a comprehensive boilerplate for accelerating SaaS development, featuring user authentication, payment integration, organization management, an admin panel, blog creation, and roadmap management, with seamless Next.js and Supabase integration for scalable projects.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/nextbase-website.png"
+  },
+  {
+    "name": "NextFire",
+    "description": "NextFire is a powerful template that streamlines app integration using Firebase and Next.js. It offers features like authentication, database, and payment handling with Stripe, while enhancing design with Tailwind CSS. Created by an expert, it accelerates project launches.",
+    "price": "$169",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/nextfire-website.png"
+  },
+  {
+    "name": "Nextless.js",
+    "description": "Nextless.js is a full-stack React SaaS Starter Kit that speeds up SaaS launches. With React, TypeScript, and Tailwind CSS, it provides essential tools and serverless API integration, enabling developers to focus on unique features. Ideal for web and mobile apps.",
+    "price": "$699",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/nextlessjs-website.png"
+  },
+  {
+    "name": "NextReady",
+    "description": "Accelerate your project development with this comprehensive boilerplate. Built with Next.js and TypeScript, it features AI voice notes, digital commerce, secure APIs, and more. Enhance customer support and manage projects efficiently with advanced tools and integrations.",
+    "price": "Free",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/nextready-website.png"
+  },
+  {
+    "name": "Rocket Launch",
+    "description": "Rocketlaunch is a SaaS starter kit that accelerates project launches with Clerk authentication, Stripe integration, and a landing page. It features Tailwind CSS design and a Supabase and Prisma backend, built on Next.js, with comprehensive support and documentation.",
+    "price": "$49",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/rocket-launch-website.png"
+  },
+  {
+    "name": "SaaS AI",
+    "description": "The Next.js Boilerplate is a comprehensive toolkit for SaaS development, featuring AI integration, user authentication, and payment management. It includes responsive design, SEO optimization, UI components, analytics, and private community support for seamless development.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/saas-ai-website.png"
+  },
+  {
+    "name": "SaaSBold",
+    "description": "SaaSBold is a comprehensive SaaS boilerplate built on Next.js, offering rapid deployment for startups. It features seamless frontend and backend integration, Stripe billing, customizable authentication, an admin dashboard, internationalization, and a blog, ensuring scalable and efficient development.",
+    "price": "$149",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/saasbold-website.png"
+  },
+  {
+    "name": "SaaSy Land",
+    "description": "Accelerate your business launch with SaaSy Land, a free and open-source Next.js template. It offers cutting-edge technology, customizable features, robust authentication, and integrated payment solutions, ensuring a competitive edge and efficient web development. Join the thriving community today.",
+    "price": "Free",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/saasy-land-wewbsite.png"
+  },
+  {
+    "name": "Serverless",
+    "description": "Serverless SaaS is a starter kit for SaaS product development, featuring authentication, payments, team management, and CMS. It includes a customizable landing page, Stripe billing, and email integrations. Built with Next.js and TailwindCSS, it’s highly scalable.",
+    "price": "$399",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/serverless-website.png"
+  },
+  {
+    "name": "Ship SaaS",
+    "description": "Accelerate your SaaS development with the Ship SaaS boilerplate. Featuring authentication, database integration, billing, and more, it leverages Next.js, Supabase, Tailwindcss, Stripe, and TypeScript. Start quickly by forking the GitHub repository.",
+    "price": "$199",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/ship-saas-website.png"
+  },
+  {
+    "name": "Shipfast",
+    "description": "ShipFast is a NextJS boilerplate that accelerates online business launches, ideal for SaaS, AI, and web apps. It includes payment processing, a database, user authentication, and more, with a supportive community and resources for seamless setup.",
+    "price": "$199",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/shipfast-website.png"
+  },
+  {
+    "name": "Shipixen",
+    "description": "Shipixen streamlines web development with 276+ templates and 300+ demos, offering customizable boilerplates for SEO-optimized websites. Utilize Next.js, Tailwind CSS, AI content generation, and more, enabling rapid deployment and allowing creators to focus on their products.",
+    "price": "$249",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/shipixen-website.png"
+  },
+  {
+    "name": "Shipped",
+    "description": "Shipped is a versatile boilerplate that accelerates SaaS launches with customizable landing pages, integrated payments, and user authentication. It features modern design tools, SEO-boosting blogs, and a supportive community, saving you weeks of development time.",
+    "price": "$257",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/shipped-website.png"
+  },
+  {
+    "name": "Shipper",
+    "description": "The Shipper Boilerplate provides production-ready code for founders, featuring waiting lists, pre-sale capabilities, and SaaS tools. Customize and host easily on Vercel or AWS with user authentication and payment setup. Ideal for indie makers launching startups quickly.",
+    "price": "$69",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/shipper-website.png"
+  },
+  {
+    "name": "Solid",
+    "description": "Solid is a robust Next.js SaaS boilerplate, perfect for launching startups efficiently. It features essential integrations like authentication, database management, and payment systems. Built with Next.js 15 and styled with Tailwind CSS, it ensures high performance and scalability.",
+    "price": "$100",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/solid-website.png"
+  },
+  {
+    "name": "Staarter",
+    "description": "Staarter.dev is a powerful Next.js SaaS template that accelerates development with features like secure authentication, Stripe integration, localization, and AI support. It offers an intuitive admin dashboard, light/dark modes, and easy customization for a seamless user experience.",
+    "price": "$299",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/staarter-website.png"
+  },
+  {
+    "name": "Supaboost",
+    "description": "Supaboost is a comprehensive SaaS Starter Kit, combining Supabase and NextJS to streamline your project setup. It offers user management, international payment integration, dynamic forms, data visualization, and more, enabling developers to focus on product development and innovation.",
+    "price": "$150",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/supaboost-website.png"
+  },
+  {
+    "name": "Supalaunch",
+    "description": "SupaLaunch is a starter kit for quickly building a startup. It includes a landing page, Stripe setup, LangChain chat, SEO tools, and AI integration. Choose from over 20 UI themes, enjoy built-in analytics, blogging, and lifetime updates via GitHub.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/supalaunch-website.png"
+  },
+  {
+    "name": "Supastarter",
+    "description": "Supastarter is a versatile boilerplate for indie hackers and developers, offering essential SaaS functionalities. It supports projects of any scale and accelerates product launches, maintained by experts in Next.js, Nuxt, and SvelteKit. Stay updated via the newsletter.",
+    "price": "$349",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/supastarter-website.png"
+  },
+  {
+    "name": "Template AI",
+    "description": "TemplateAI streamlines AI app development by integrating NextJS 13 and Supabase, offering pre-built landing pages, dashboards, and user authentication. Styled with Tailwind CSS, it supports innovative AI features and simplifies API routes, enabling rapid app launch and customization.",
+    "price": "$69",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/template-ai-website.png"
+  },
+  {
+    "name": "Veloz",
+    "description": "Veloz accelerates SaaS projects by offering versatile scaffolding and integration of essential services. It ensures flexibility with any framework or language, featuring clean code and rapid deployment, making it the ultimate launchpad for scalable, innovative solutions.",
+    "price": "$199",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/veloz-website.png"
+  },
+  {
+    "name": "Zexa Next",
+    "description": "ZexaNext offers a comprehensive boilerplate for SaaS applications, featuring user authentication, payment processing, and email management. Built on PostgreSQL and Prisma ORM, it ensures scalability and flexibility, with responsive design and SEO optimization using Next.js and TailwindCSS.",
+    "price": "$49",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/02/zexa-next-website.png"
+  },
+  {
+    "name": "Zippy Starter",
+    "description": "ZippyStarter is a dynamic Next.js boilerplate that simplifies web development with stunning templates, automatic SEO, fast page speeds, and an intuitive CLI, perfect for creating landing pages, blogs, and portfolios efficiently.",
+    "price": "$99",
+    "imageUrl": "https://boilerplatelist.com/wp-content/uploads/2025/01/zippy-starter-website.png"
+  }
+]
